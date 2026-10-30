@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100D12,50:711D35,100:542D78&height=210&section=header&text=Gustavo%20Pereira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://github.com/Gusta-pera69">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=E85D75&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Pereira!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Sempre+aprendendo%2C+criando+e+evoluindo;Transformando+ideias+em+projetos." alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=E85D75&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Pereira!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Sempre+aprendendo%2C+criando+e+evoluindo;Transformando+ideias+em+projetos." alt="Typing SVG" />
 
 <a href="https://github.com/Gusta-pera69">
-  <img src="https://img.shields.io/badge/GitHub-Gusta--pera69-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Gusta--pera69-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gustavo-pereira-26aa56398/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -21,15 +17,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Gustavo Pereira**, estudante e entusiasta da tecnologia, atualmente direcionando minha trajetória para me tornar um **Desenvolvedor Full Stack**.
+Olá! Sou **Gustavo Pereira**, estudante de tecnologia e desenvolvedor em formação, com objetivo de me tornar um **Desenvolvedor Full Stack**.
 
-Gosto de entender como as coisas funcionam, transformar ideias em projetos e buscar soluções para problemas. Minha jornada na programação é marcada pela curiosidade, iniciativa e vontade constante de aprender.
+Gosto de transformar ideias em projetos, entender como as coisas funcionam e buscar soluções para problemas. Minha trajetória na programação é marcada pela curiosidade, iniciativa e vontade constante de aprender.
 
 Tenho um perfil proativo, gosto de trabalhar em equipe, compartilhar ideias e aprender com diferentes perspectivas. Acredito que bons resultados surgem da colaboração, da comunicação e da disposição para enfrentar novos desafios.
 
-Não tenho a pretensão de saber tudo. Pelo contrário: vejo cada projeto, dificuldade e experiência como uma oportunidade de evoluir profissionalmente.
+Não tenho a pretensão de saber tudo. Vejo cada projeto, dificuldade e experiência como uma oportunidade de evoluir profissionalmente.
 
-**Meu objetivo é crescer como desenvolvedor, ampliar meus conhecimentos em Front-end e Back-end e construir aplicações cada vez mais completas, organizadas e funcionais.**
+**Meu objetivo é desenvolver aplicações completas, ampliar meus conhecimentos em Front-end e Back-end e construir uma carreira sólida na área de tecnologia.**
 
 ## 🚀 O que me define
 
@@ -42,122 +38,44 @@ Não tenho a pretensão de saber tudo. Pelo contrário: vejo cada projeto, dific
 
 ## 🛠️ Tecnologias e ferramentas
 
-Tecnologias com as quais já tive contato em projetos, atividades acadêmicas e estudos:
+Tecnologias com as quais já tive contato durante meus estudos e projetos:
 
 ### Front-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Back-end e banco de dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,supabase" />
-</p>
-
-Também estudo e pratico conceitos de SQL e desenvolvimento de aplicações.
+<img src="https://skillicons.dev/icons?i=python,postgres,supabase" />
 
 ### Ferramentas e versionamento
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-> Minha stack está em evolução. Os ícones representam tecnologias com as quais já tive contato, não necessariamente domínio avançado.
+> Minha stack está em evolução. Esses ícones representam tecnologias com as quais já tive contato, não necessariamente domínio avançado.
 
-## 💻 Projetos e experiências práticas
+## 💻 Projeto em destaque
 
-Acredito que a melhor maneira de aprender programação é colocando o conhecimento em prática. Meus repositórios reúnem exercícios acadêmicos, experimentos e projetos desenvolvidos durante minha evolução.
+### 🔥 MB — Mr. Bombastic
 
-### 📌 Projetos publicados
+Um projeto pessoal que representa minha iniciativa de criar uma aplicação própria, explorando conceitos de desenvolvimento, organização de código e experiência do usuário.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+O projeto tem como proposta reunir diferentes funcionalidades em um ambiente pessoal, com atenção especial à privacidade, ao funcionamento offline e à organização dos dados.
 
-<h3>📱 Programa Mobile</h3>
+**Principais áreas de desenvolvimento:**
 
-Repositório com códigos e atividades desenvolvidos durante as aulas de programação mobile.
+- Desenvolvimento de interfaces e funcionalidades.
+- Organização e planejamento da arquitetura.
+- Aplicação web progressiva (PWA).
+- Estudos de segurança e criptografia.
+- Armazenamento local e funcionamento offline.
+- Experiência e personalização do usuário.
 
-<a href="https://github.com/Gusta-pera69/Programa-mobile">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
+<em>Projeto autoral em desenvolvimento contínuo.</em>
+
+<a href="https://github.com/Gusta-pera69/MB">
+<img src="https://img.shields.io/badge/Conhecer%20o%20MB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎨 Meu Cartão</h3>
-
-Projeto de interface desenvolvido com HTML e CSS, trabalhando estruturação e apresentação visual.
-
-<a href="https://github.com/Gusta-pera69/Meu--cartao">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>⚛️ CD-CI</h3>
-
-Projeto de estudos com React, utilizando a estrutura inicial do Create React App.
-
-<a href="https://github.com/Gusta-pera69/CD-CI">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📋 Registro</h3>
-
-Exercício envolvendo JavaScript e interpretação de logs de execução e falhas em uma pipeline.
-
-<a href="https://github.com/Gusta-pera69/Registro">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🐍 Meu Primeiro Projeto Git</h3>
-
-Um dos meus primeiros repositórios, com experimentos em Python e utilização do Git.
-
-<a href="https://github.com/Gusta-pera69/Meu-primeiro-projeto-git">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚙️ Minha Primeira Linha de Montagem</h3>
-
-Repositório de estudos com estrutura de workflows do GitHub Actions.
-
-<a href="https://github.com/Gusta-pera69/minha-primeira-linha-de-montagem">
-<img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-</table>
-
-### 🔥 Projetos em desenvolvimento
-
-**MB — Mr. Bombastic**
-
-Projeto pessoal que representa minha iniciativa de criar uma aplicação própria. Envolve planejamento de arquitetura, interfaces, experiência offline, privacidade e organização dos dados.
-
-**Gotham Store**
-
-Projeto acadêmico de e-commerce, envolvendo desenvolvimento de funcionalidades para uma loja virtual, gerenciamento de produtos e estoque e integração com Supabase.
-
-Esses projetos fazem parte da minha evolução prática e representam oportunidades para aprofundar meus conhecimentos em desenvolvimento de software.
 
 ## 🤖 Inteligência Artificial no desenvolvimento
 
@@ -165,7 +83,7 @@ Acredito que a Inteligência Artificial pode ser uma grande aliada no desenvolvi
 
 Utilizo ferramentas de IA como apoio para estudar, investigar problemas, explorar alternativas e otimizar meu processo de desenvolvimento.
 
-Entretanto, considero fundamental compreender o código, questionar as soluções apresentadas e buscar entender as decisões técnicas envolvidas.
+Entretanto, considero fundamental compreender o código, questionar as soluções apresentadas e entender as decisões técnicas envolvidas.
 
 **Não quero apenas produzir código com ajuda da IA. Quero desenvolver o conhecimento necessário para compreender, avaliar, adaptar e assumir a responsabilidade pelo que construo.**
 
@@ -185,7 +103,7 @@ Para mim, a IA é uma ferramenta de apoio ao aprendizado e à produtividade, nã
 
 </div>
 
-## 📈 Atividade no GitHub
+## 📈 Minha atividade
 
 <div align="center">
 
@@ -205,7 +123,7 @@ Para mim, a IA é uma ferramenta de apoio ao aprendizado e à produtividade, nã
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gusta-pera69/Gusta-pera69/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Gusta-pera69/Gusta-pera69/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do GitHub" width="100%" />
 
 </div>
 
@@ -218,6 +136,7 @@ Estou aberto a trocar conhecimentos, conhecer pessoas da área de tecnologia, pa
 <a href="https://github.com/Gusta-pera69">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/gustavo-pereira-26aa56398/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
